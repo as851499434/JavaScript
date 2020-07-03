@@ -1,7 +1,7 @@
 一、环境搭建步骤
     1、将jar包上传至服务器任意目录/var/www/html
     2、启动jar包
-        在服务器的/var/www/html目录下，输入命令行，nohup java -jar cms-0509.jar &
+      在服务器的/var/www/html目录下，输入命令行，nohup java -jar cms-0509.jar &
     3、查看jar包是否运行
         输入命令行ps -ef | grep java
     4、在浏览器登录阿里云/腾讯云，开放一个8099的端口
